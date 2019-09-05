@@ -13,7 +13,7 @@
 
 ## 使用方法
 1. 把需要生成词云的文档另存为txt纯文本，保存在/doc 文件夹下。
-2. 修改1_main_function.py 中这行 text = open(path.join(d, 'doc/中华人民共和国道路交通安全法.txt')).read()
+2. 修改1_main_function.py 中“中华人民共和国道路交通安全法.txt” 改成你要分析的文件
 2. 运行1_main_function.py 程序
 3. 查看输出结果包括：
     3.1 99.统计结果_词频.txt （不是很有用）
