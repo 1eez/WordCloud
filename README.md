@@ -31,5 +31,7 @@
 README.md           本文件
 
 ## 示例图
+![avatar](https://github.com/1eez/WordCloud/blob/master/99.%E7%BB%9F%E8%AE%A1%E7%BB%93%E6%9E%9C_%E8%AF%8D%E4%BA%91_%E5%8C%85%E5%90%AB%E6%97%A0%E5%85%B3%E8%AF%8D.png)
 
+![avatar](https://github.com/1eez/WordCloud/blob/master/99.%E7%BB%9F%E8%AE%A1%E7%BB%93%E6%9E%9C_%E8%AF%8D%E4%BA%91_%E5%8E%BB%E9%99%A4%E6%97%A0%E5%85%B3%E8%AF%8D.png)
 
